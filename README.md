@@ -1,16 +1,40 @@
-## Hi there 👋
+# NNFall
 
-<!--
-**NNFall/NNFall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Никита · Fullstack Middle / AI Engineer**
 
-Here are some ideas to get you started:
+Делаю веб-сервисы, веб-продукты, AI-интеграции и ботов. Работаю над своими продуктами и проектами для бизнеса: от API и базы данных до интерфейса, развёртывания и дальнейших доработок.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+
+| Направление | Технологии |
+| --- | --- |
+| Backend | Python, Django, FastAPI, aiohttp, REST API, webhooks |
+| Frontend | JavaScript, TypeScript, React, HTML/CSS |
+| Данные и инфраструктура | PostgreSQL, MySQL, Redis, Docker, Linux, Nginx |
+| AI и интеграции | LLM API, AI-агенты, Telegram Bot API, обработка документов и медиа |
+| Мобильные проекты | Flutter / Dart |
+
+## Проекты
+
+| Проект | Что делаю |
+| --- | --- |
+| [Kaigo Widgets](https://github.com/NNFall/widgets) · [демо](https://kaigo.space/) | AI-консультанты для сайтов, backend, кабинет клиента и управление виджетами |
+| [Slide Maker AI](https://github.com/NNFall/DMSlideAi) | Веб-продукт для генерации презентаций, аккаунты, подписки и интеграции |
+| [HearSpan AI](https://github.com/NNFall/HearSpanAI) | Windows-приложение для транскрибации и ответов с учётом контекста разговора; публичная страница и beta-релизы, исходники закрыты |
+| [KAIGO](https://github.com/NNFall/kaigo) | Лендинг с анимацией и видео, связанным с прокруткой |
+
+Кроме продуктов, разрабатываю сайты для заведений: [Точка притяжения](https://kaigo.space/site/dotgravity/), [White Cup](https://kaigo.space/site/whitecup/), [Комод](https://kaigo.space/site/comod/) и [UNITY](https://kaigo.space/site/unity/). Это демонстрационные проекты, не заявление об официальном сотрудничестве с заведениями.
+
+## Коротко об опыте
+
+| Период | Где и над чем работал |
+| --- | --- |
+| С июня 2026 | **«ДжиАйТи» / GCollect, G-ROBOT.** Fullstack-разработка: интерфейсы и backend продукта, лендинги, интеграции, тестирование и доработки по обратной связи |
+| Август 2025 - январь 2026 | **PRO Review, Минск.** AI-автоматизация документов, данных и рабочих процессов; обсуждение задач с бизнесом и сопровождение внедрения |
+| Июнь - сентябрь 2025, около 3 месяцев | **SkillPointApp, AI/EdTech-стартап.** Python-backend в команде: API, авторизация, роли, платежная логика и ограничения по организациям |
+
+Проектной разработкой занимаюсь с 2024 года; часть заказов совмещалась с работой в командах. Коммерческие исходники и данные клиентов не публикую автоматически.
+
+В работе использую Codex и другие AI-инструменты: для анализа, реализации и проверок. Основное направление в AI - интеграция моделей и агентные сценарии, а не обучение нейросетей с нуля.
+
+[Kaigo](https://kaigo.space/) · [Telegram](https://t.me/kiperovka)
