@@ -19,11 +19,21 @@
 | Проект | Что делаю |
 | --- | --- |
 | [Kaigo Widgets](https://github.com/NNFall/widgets) · [демо](https://kaigo.space/) | AI-консультанты для сайтов, backend, кабинет клиента и управление виджетами |
-| [Slide Maker AI](https://github.com/NNFall/DMSlideAi) | Веб-продукт для генерации презентаций, аккаунты, подписки и интеграции |
+| [Slide Maker AI](https://github.com/NNFall/DMSlideAi) · [демо](https://slide-maker-ai.com/) | Веб-продукт для генерации презентаций, аккаунты, подписки и интеграции |
 | [HearSpan AI](https://github.com/NNFall/HearSpanAI) | Windows-приложение для транскрибации и ответов с учётом контекста разговора; публичная страница и beta-релизы, исходники закрыты |
-| [KAIGO](https://github.com/NNFall/kaigo) | Лендинг с анимацией и видео, связанным с прокруткой |
+| [KAIGO](https://github.com/NNFall/kaigo) · [демо](https://kaigo.online/) | Лендинг с анимацией и видео, связанным с прокруткой |
 
-Кроме продуктов, разрабатываю сайты для заведений: [Точка притяжения](https://kaigo.space/site/dotgravity/), [White Cup](https://kaigo.space/site/whitecup/), [Комод](https://kaigo.space/site/comod/) и [UNITY](https://kaigo.space/site/unity/). Это демонстрационные проекты, не заявление об официальном сотрудничестве с заведениями.
+Кроме продуктов, разрабатываю сайты для заведений:
+
+| Сайт | Ссылки |
+| --- | --- |
+| Точка притяжения | [Исходники](https://github.com/NNFall/dotgravity) · [демо](https://kaigo.space/site/dotgravity/) |
+| White Cup | [Исходники](https://github.com/NNFall/whitecup) · [демо](https://kaigo.space/site/whitecup/) |
+| Комод | [Исходники](https://github.com/NNFall/comod) · [демо](https://kaigo.space/site/comod/) |
+| UNITY | [Исходники](https://github.com/NNFall/unitysitv2) · [демо](https://kaigo.space/site/unity/) |
+| Море Котиков | [Исходники](https://github.com/NNFall/seaofcats) |
+
+Это демонстрационные проекты, не заявление об официальном сотрудничестве с заведениями.
 
 ## Коротко об опыте
 
