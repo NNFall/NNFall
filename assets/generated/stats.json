@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-09",
+  "period": {
+    "kind": "last12months",
+    "from": "2025-09-09",
+    "to": "2026-09-09"
+  },
+  "scope": {
+    "account": "NNFall",
+    "repositories": "public owned non-fork non-archived repositories",
+    "profileRepositoryExcluded": true,
+    "privateRepositoriesExcluded": true,
+    "languageUnit": "bytes",
+    "languageMeaning": "GitHub-detected language bytes; not lines and not authorship",
+    "contributions": "public non-fork non-archived commit contributions",
+    "privateContributionMetadataRequested": false
+  },
+  "publicRepoCount": 37,
+  "stars": 0,
+  "languages": [
+    {
+      "name": "Python",
+      "bytes": 4899802,
+      "color": "#3572a5",
+      "percent": 54.52
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 1623324,
+      "color": "#3178c6",
+      "percent": 18.06
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 834624,
+      "color": "#f1e05a",
+      "percent": 9.29
+    },
+    {
+      "name": "Dart",
+      "bytes": 800645,
+      "color": "#00b4ab",
+      "percent": 8.91
+    },
+    {
+      "name": "CSS",
+      "bytes": 520129,
+      "color": "#663399",
+      "percent": 5.79
+    },
+    {
+      "name": "Astro",
+      "bytes": 102607,
+      "color": "#ff5a03",
+      "percent": 1.14
+    },
+    {
+      "name": "HTML",
+      "bytes": 88381,
+      "color": "#e34c26",
+      "percent": 0.98
+    },
+    {
+      "name": "C++",
+      "bytes": 38624,
+      "color": "#f34b7d",
+      "percent": 0.43
+    },
+    {
+      "name": "Kotlin",
+      "bytes": 30124,
+      "color": "#a97bff",
+      "percent": 0.34
+    },
+    {
+      "name": "CMake",
+      "bytes": 20952,
+      "color": "#da3434",
+      "percent": 0.23
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 11224,
+      "color": "#384d54",
+      "percent": 0.12
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 10505,
+      "color": "#012456",
+      "percent": 0.12
+    },
+    {
+      "name": "Swift",
+      "bytes": 1800,
+      "color": "#f05138",
+      "percent": 0.02
+    },
+    {
+      "name": "Shell",
+      "bytes": 1766,
+      "color": "#89e051",
+      "percent": 0.02
+    },
+    {
+      "name": "C",
+      "bytes": 1468,
+      "color": "#555555",
+      "percent": 0.02
+    },
+    {
+      "name": "Mako",
+      "bytes": 1247,
+      "color": "#7e858d",
+      "percent": 0.01
+    },
+    {
+      "name": "Objective-C",
+      "bytes": 76,
+      "color": "#438eff",
+      "percent": 0
+    }
+  ],
+  "publicCommitContributions": {
+    "count": 775,
+    "status": "partial",
+    "repositoryCap": 100,
+    "repositoriesIncluded": 35,
+    "repositoryListCapped": false,
+    "contributionDaysCapped": true
+  }
+}

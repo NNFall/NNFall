@@ -1,0 +1,58 @@
+name: Refresh profile stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+concurrency:
+  group: profile-stats-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2, official release commit
+        with:
+          persist-credentials: true
+
+      - name: Generate public profile statistics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_LOGIN: NNFall
+          PROFILE_REPOSITORY: NNFall/NNFall
+          STATS_OUTPUT_DIR: assets/generated
+        run: node scripts/generate-profile-stats.mjs
+
+      - name: Commit only changed generated assets
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git add -- assets/generated/profile-stats-light.svg assets/generated/profile-stats-dark.svg assets/generated/stats.json
+
+          if ! git diff --quiet -- . ':(exclude)assets/generated/**'; then
+            echo 'Unexpected changes outside assets/generated' >&2
+            exit 1
+          fi
+
+          if git diff --cached --quiet -- assets/generated; then
+            echo 'Profile stats are unchanged; no commit needed.'
+            exit 0
+          fi
+
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          if git diff --cached --quiet; then
+            echo 'Profile stats are unchanged after staging; no commit needed.'
+            exit 0
+          fi
+
+          git commit -m 'chore: refresh profile stats [skip ci]'
+          git push origin "HEAD:${GITHUB_REF_NAME}"
