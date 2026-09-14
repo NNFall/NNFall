@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13",
+  "generatedAt": "2026-09-14",
   "period": {
     "kind": "last12months",
-    "from": "2025-09-13",
-    "to": "2026-09-13"
+    "from": "2025-09-14",
+    "to": "2026-09-14"
   },
   "scope": {
     "account": "NNFall",
@@ -23,31 +23,31 @@
       "name": "Python",
       "bytes": 4899802,
       "color": "#3572a5",
-      "percent": 54.52
+      "percent": 54.36
     },
     {
       "name": "TypeScript",
-      "bytes": 1623324,
+      "bytes": 1637672,
       "color": "#3178c6",
-      "percent": 18.06
+      "percent": 18.17
     },
     {
       "name": "JavaScript",
       "bytes": 834624,
       "color": "#f1e05a",
-      "percent": 9.29
+      "percent": 9.26
     },
     {
       "name": "Dart",
       "bytes": 800645,
       "color": "#00b4ab",
-      "percent": 8.91
+      "percent": 8.88
     },
     {
       "name": "CSS",
-      "bytes": 520129,
+      "bytes": 532334,
       "color": "#663399",
-      "percent": 5.79
+      "percent": 5.91
     },
     {
       "name": "Astro",
@@ -71,7 +71,7 @@
       "name": "Kotlin",
       "bytes": 30124,
       "color": "#a97bff",
-      "percent": 0.34
+      "percent": 0.33
     },
     {
       "name": "CMake",
@@ -123,7 +123,7 @@
     }
   ],
   "publicCommitContributions": {
-    "count": 772,
+    "count": 775,
     "status": "partial",
     "repositoryCap": 100,
     "repositoriesIncluded": 35,
