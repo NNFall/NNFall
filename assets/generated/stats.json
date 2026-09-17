@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16",
+  "generatedAt": "2026-09-17",
   "period": {
     "kind": "last12months",
-    "from": "2025-09-16",
-    "to": "2026-09-16"
+    "from": "2025-09-17",
+    "to": "2026-09-17"
   },
   "scope": {
     "account": "NNFall",
@@ -23,43 +23,43 @@
       "name": "Python",
       "bytes": 4899802,
       "color": "#3572a5",
-      "percent": 54.36
+      "percent": 53.94
     },
     {
       "name": "TypeScript",
-      "bytes": 1637672,
+      "bytes": 1675449,
       "color": "#3178c6",
-      "percent": 18.17
+      "percent": 18.44
     },
     {
       "name": "JavaScript",
       "bytes": 834624,
       "color": "#f1e05a",
-      "percent": 9.26
+      "percent": 9.19
     },
     {
       "name": "Dart",
       "bytes": 800645,
       "color": "#00b4ab",
-      "percent": 8.88
+      "percent": 8.81
     },
     {
       "name": "CSS",
-      "bytes": 532334,
+      "bytes": 564652,
       "color": "#663399",
-      "percent": 5.91
+      "percent": 6.22
     },
     {
       "name": "Astro",
       "bytes": 102607,
       "color": "#ff5a03",
-      "percent": 1.14
+      "percent": 1.13
     },
     {
       "name": "HTML",
       "bytes": 88381,
       "color": "#e34c26",
-      "percent": 0.98
+      "percent": 0.97
     },
     {
       "name": "C++",
@@ -123,7 +123,7 @@
     }
   ],
   "publicCommitContributions": {
-    "count": 773,
+    "count": 776,
     "status": "partial",
     "repositoryCap": 100,
     "repositoriesIncluded": 35,
