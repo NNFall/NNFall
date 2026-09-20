@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19",
+  "generatedAt": "2026-09-20",
   "period": {
     "kind": "last12months",
-    "from": "2025-09-19",
-    "to": "2026-09-19"
+    "from": "2025-09-20",
+    "to": "2026-09-20"
   },
   "scope": {
     "account": "NNFall",
@@ -16,79 +16,85 @@
     "contributions": "public non-fork non-archived commit contributions",
     "privateContributionMetadataRequested": false
   },
-  "publicRepoCount": 37,
+  "publicRepoCount": 38,
   "stars": 0,
   "languages": [
     {
       "name": "Python",
-      "bytes": 4899802,
+      "bytes": 5003418,
       "color": "#3572a5",
-      "percent": 53.94
+      "percent": 51.32
     },
     {
       "name": "TypeScript",
       "bytes": 1675449,
       "color": "#3178c6",
-      "percent": 18.44
+      "percent": 17.19
     },
     {
       "name": "JavaScript",
-      "bytes": 834624,
+      "bytes": 1285979,
       "color": "#f1e05a",
-      "percent": 9.19
+      "percent": 13.19
     },
     {
       "name": "Dart",
       "bytes": 800645,
       "color": "#00b4ab",
-      "percent": 8.81
+      "percent": 8.21
     },
     {
       "name": "CSS",
       "bytes": 564652,
       "color": "#663399",
-      "percent": 6.22
+      "percent": 5.79
+    },
+    {
+      "name": "HTML",
+      "bytes": 110471,
+      "color": "#e34c26",
+      "percent": 1.13
     },
     {
       "name": "Astro",
       "bytes": 102607,
       "color": "#ff5a03",
-      "percent": 1.13
+      "percent": 1.05
     },
     {
-      "name": "HTML",
-      "bytes": 88381,
-      "color": "#e34c26",
-      "percent": 0.97
+      "name": "C#",
+      "bytes": 69744,
+      "color": "#7355dd",
+      "percent": 0.72
     },
     {
       "name": "C++",
       "bytes": 38624,
       "color": "#f34b7d",
-      "percent": 0.43
+      "percent": 0.4
     },
     {
       "name": "Kotlin",
       "bytes": 30124,
       "color": "#a97bff",
-      "percent": 0.33
+      "percent": 0.31
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 28717,
+      "color": "#012456",
+      "percent": 0.29
     },
     {
       "name": "CMake",
       "bytes": 20952,
       "color": "#da3434",
-      "percent": 0.23
+      "percent": 0.21
     },
     {
       "name": "Dockerfile",
       "bytes": 11224,
       "color": "#384d54",
-      "percent": 0.12
-    },
-    {
-      "name": "PowerShell",
-      "bytes": 10505,
-      "color": "#012456",
       "percent": 0.12
     },
     {
@@ -123,10 +129,10 @@
     }
   ],
   "publicCommitContributions": {
-    "count": 775,
+    "count": 782,
     "status": "partial",
     "repositoryCap": 100,
-    "repositoriesIncluded": 35,
+    "repositoriesIncluded": 36,
     "repositoryListCapped": false,
     "contributionDaysCapped": true
   }
