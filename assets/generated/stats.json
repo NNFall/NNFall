@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20",
+  "generatedAt": "2026-09-21",
   "period": {
     "kind": "last12months",
-    "from": "2025-09-20",
-    "to": "2026-09-20"
+    "from": "2025-09-21",
+    "to": "2026-09-21"
   },
   "scope": {
     "account": "NNFall",
@@ -23,79 +23,79 @@
       "name": "Python",
       "bytes": 5003418,
       "color": "#3572a5",
-      "percent": 51.32
+      "percent": 46.41
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 2194741,
+      "color": "#f1e05a",
+      "percent": 20.36
     },
     {
       "name": "TypeScript",
       "bytes": 1675449,
       "color": "#3178c6",
-      "percent": 17.19
-    },
-    {
-      "name": "JavaScript",
-      "bytes": 1285979,
-      "color": "#f1e05a",
-      "percent": 13.19
+      "percent": 15.54
     },
     {
       "name": "Dart",
       "bytes": 800645,
       "color": "#00b4ab",
-      "percent": 8.21
+      "percent": 7.43
     },
     {
       "name": "CSS",
-      "bytes": 564652,
+      "bytes": 595173,
       "color": "#663399",
-      "percent": 5.79
+      "percent": 5.52
     },
     {
       "name": "HTML",
-      "bytes": 110471,
+      "bytes": 123298,
       "color": "#e34c26",
+      "percent": 1.14
+    },
+    {
+      "name": "C#",
+      "bytes": 121480,
+      "color": "#7355dd",
       "percent": 1.13
     },
     {
       "name": "Astro",
       "bytes": 102607,
       "color": "#ff5a03",
-      "percent": 1.05
+      "percent": 0.95
     },
     {
-      "name": "C#",
-      "bytes": 69744,
-      "color": "#7355dd",
-      "percent": 0.72
+      "name": "PowerShell",
+      "bytes": 55744,
+      "color": "#012456",
+      "percent": 0.52
     },
     {
       "name": "C++",
       "bytes": 38624,
       "color": "#f34b7d",
-      "percent": 0.4
+      "percent": 0.36
     },
     {
       "name": "Kotlin",
       "bytes": 30124,
       "color": "#a97bff",
-      "percent": 0.31
-    },
-    {
-      "name": "PowerShell",
-      "bytes": 28717,
-      "color": "#012456",
-      "percent": 0.29
+      "percent": 0.28
     },
     {
       "name": "CMake",
       "bytes": 20952,
       "color": "#da3434",
-      "percent": 0.21
+      "percent": 0.19
     },
     {
       "name": "Dockerfile",
       "bytes": 11224,
       "color": "#384d54",
-      "percent": 0.12
+      "percent": 0.1
     },
     {
       "name": "Swift",
@@ -113,7 +113,7 @@
       "name": "C",
       "bytes": 1468,
       "color": "#555555",
-      "percent": 0.02
+      "percent": 0.01
     },
     {
       "name": "Mako",
@@ -129,10 +129,10 @@
     }
   ],
   "publicCommitContributions": {
-    "count": 782,
+    "count": 784,
     "status": "partial",
     "repositoryCap": 100,
-    "repositoriesIncluded": 36,
+    "repositoriesIncluded": 35,
     "repositoryListCapped": false,
     "contributionDaysCapped": true
   }
