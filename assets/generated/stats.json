@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15",
+  "generatedAt": "2026-10-16",
   "period": {
     "kind": "last12months",
-    "from": "2025-10-15",
-    "to": "2026-10-15"
+    "from": "2025-10-16",
+    "to": "2026-10-16"
   },
   "scope": {
     "account": "NNFall",
@@ -21,45 +21,45 @@
   "languages": [
     {
       "name": "Python",
-      "bytes": 5068725,
+      "bytes": 5073302,
       "color": "#3572a5",
-      "percent": 45.54
+      "percent": 45.25
     },
     {
       "name": "JavaScript",
-      "bytes": 2447177,
+      "bytes": 2522849,
       "color": "#f1e05a",
-      "percent": 21.99
+      "percent": 22.5
     },
     {
       "name": "TypeScript",
       "bytes": 1675449,
       "color": "#3178c6",
-      "percent": 15.05
+      "percent": 14.94
     },
     {
       "name": "Dart",
       "bytes": 800645,
       "color": "#00b4ab",
-      "percent": 7.19
+      "percent": 7.14
     },
     {
       "name": "CSS",
       "bytes": 595978,
       "color": "#663399",
-      "percent": 5.35
+      "percent": 5.32
     },
     {
       "name": "C#",
       "bytes": 152037,
       "color": "#7355dd",
-      "percent": 1.37
+      "percent": 1.36
     },
     {
       "name": "HTML",
       "bytes": 124351,
       "color": "#e34c26",
-      "percent": 1.12
+      "percent": 1.11
     },
     {
       "name": "Astro",
@@ -77,7 +77,7 @@
       "name": "C++",
       "bytes": 38624,
       "color": "#f34b7d",
-      "percent": 0.35
+      "percent": 0.34
     },
     {
       "name": "Kotlin",
@@ -129,7 +129,7 @@
     }
   ],
   "publicCommitContributions": {
-    "count": 768,
+    "count": 769,
     "status": "partial",
     "repositoryCap": 100,
     "repositoriesIncluded": 35,
