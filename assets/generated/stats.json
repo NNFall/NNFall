@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13",
+  "generatedAt": "2026-11-14",
   "period": {
     "kind": "last12months",
-    "from": "2025-11-13",
-    "to": "2026-11-13"
+    "from": "2025-11-14",
+    "to": "2026-11-14"
   },
   "scope": {
     "account": "NNFall",
